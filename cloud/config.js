@@ -1,12 +1,12 @@
 // App Info
-const AppName = "Boom Live"; //  App Name
+const AppName = "Live Two"; //  App Name
 const LogoUrl = "https://dative.me/ic_logo_boom.png"; // App logo url, used in emails header
-const SupportEmail = "support@booms.live"; // Support email, used in emails footer
-const CompanyName = "BAXPAY, SARL"; //Company name, used in emails footer
-const Address = "679 Avenue de la republique, 59800, Lille - France"; //  Comapany address, used in emails footer
+const SupportEmail = "support@livetwo.info"; // Support email, used in emails footer
+const CompanyName = "Live Two"; //Company name, used in emails footer
+const Address = "Alampur, Suti, Murshidabad, Pin-742223, West Bengal, IN"; //  Comapany address, used in emails footer
 
 // Mailgun Keys
-const MailgunFromEmail= "Boom Live <noreply@booms.live>";
+const MailgunFromEmail= "Live Two <noreply@livetwo.info>";
 const MailgunDomain = process.env.MAILGUN_DOMAIN;
 const MailgunApiKey = process.env.MAILGUN_API_KEY;
 
